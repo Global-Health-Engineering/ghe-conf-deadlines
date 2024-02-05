@@ -1,0 +1,15 @@
+title: Global Health Engineering Conference Deadlines
+description: Countdowns to GHE conference deadlines
+author: Mian Zhong (original by Abhishek Das)
+
+domain: "aideadlin.es"
+baseurl: ""
+
+twitter_hashtag: globalhealth
+github_username: mianzg
+github_repo: ghe-conf-deadlines
+
+markdown: kramdown
+ga_id:
+
+include: ['_pages']
