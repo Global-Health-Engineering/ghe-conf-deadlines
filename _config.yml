@@ -3,8 +3,8 @@ description: Countdowns to GHE conference deadlines
 author: Mian Zhong (original by Abhishek Das)
 
 domain: ""
-#baseurl: "https://global-health-engineering.github.io/ghe-conf-deadlines"
-baseurl: ""
+baseurl: "https://global-health-engineering.github.io/ghe-conf-deadlines"
+#baseurl: ""
 
 twitter_hashtag: globalhealth
 github_username: Global-Health-Engineering
