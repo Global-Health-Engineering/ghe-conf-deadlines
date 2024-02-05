@@ -7,7 +7,7 @@ domain: ""
 baseurl: ""
 
 twitter_hashtag: globalhealth
-github_username: mianzg
+github_username: Global-Health-Engineering
 github_repo: ghe-conf-deadlines
 
 markdown: kramdown
